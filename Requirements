@@ -1,0 +1,19 @@
+# Requirements
+
+main Libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+
+
+
+Sample Dataset: 
+SepalLength | SepalWidth | PetalLength | PetalWidth | Species 
+5.1 | 3.5 | 1.4 | 0.2 | Setosa 
+7.0 | 3.2 | 4.7 | 1.4 | Versicolor 
+6.3 | 3.3 | 6.0 | 2.5 | Virginica 
+Expected Output: 
+When the model receives the input [5.0, 3.4, 1.5, 0.2],
